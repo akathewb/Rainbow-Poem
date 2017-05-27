@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 Purple
 pink
@@ -6,8 +6,9 @@ orange
 red
 yellow
 green
+unicorn
 violet
 blue
 
-these are the colors of my rainbow
+these are the colors of my rainbow and the unicorn
 

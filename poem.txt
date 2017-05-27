@@ -5,6 +5,7 @@ pink
 orange 
 red
 yellow
+green
 violet
 
 these are the colors of my rainbow

@@ -9,6 +9,7 @@ green
 unicorn
 violet
 blue
+indigo
 
 these are the colors of my rainbow and the unicorn
 
